@@ -1,8 +1,8 @@
-# Camagru
+![download](https://user-images.githubusercontent.com/49564849/86054152-4d05ab80-ba62-11ea-8477-22c37730b161.gif)
 
 ![image](https://user-images.githubusercontent.com/49564849/86052618-f4351380-ba5f-11ea-990e-bfc84f839e38.png)
  
-# INTRODUCE
+![download (1)](https://user-images.githubusercontent.com/49564849/86054218-6b6ba700-ba62-11ea-8d1a-ddf326930bc2.gif)
 
 Introduction
 Now you are ready to build your fist web applications, like pros. If you didn’t mind, the
@@ -72,24 +72,23 @@ function readURL(input) {
 
 An example is shown above, but it works.
 
-## Desktop
+![download (2)](https://user-images.githubusercontent.com/49564849/86054247-7d4d4a00-ba62-11ea-9db1-882978d724e7.gif)
 
 ![2020-06-29 22 43 24](https://user-images.githubusercontent.com/49564849/86052348-84268d80-ba5f-11ea-8de3-ab0972567d0d.jpg)
 
-## Old version of application
+![download (3)](https://user-images.githubusercontent.com/49564849/86054307-96ee9180-ba62-11ea-8d7a-da38745e0cfa.gif)
 
 ![image](https://user-images.githubusercontent.com/49564849/86052836-470ecb00-ba60-11ea-8853-2f786d8caf7a.png)
 
 ![image](https://user-images.githubusercontent.com/49564849/86052926-6574c680-ba60-11ea-9a32-c9aa5284b202.png)
 
-## Built With
+![download (4)](https://user-images.githubusercontent.com/49564849/86054340-a5d54400-ba62-11ea-9352-b3f4732951b9.gif)
 
 * [PHP]()
 * [JavaScript](https://www.javascript.com/)
 * [HTML/CSS/SVG]()
 * [MySQL]()
 
-
-## Authors
+![download (5)](https://user-images.githubusercontent.com/49564849/86054395-c1d8e580-ba62-11ea-8e54-b9174570fe7a.gif)
 
 * **Korotkov S.** - [therealadespina](https://github.com/therealadespina)
