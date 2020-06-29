@@ -1,8 +1,6 @@
 # Camagru
 
 ![2020-06-29 22 43 11](https://user-images.githubusercontent.com/49564849/86052282-6b1ddc80-ba5f-11ea-9ba2-2683d3f2f927.jpg)
-
-Camagru - This project is simple instagram.
  
 # INTRODUCE
 
