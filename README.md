@@ -1,6 +1,6 @@
 ![download](https://user-images.githubusercontent.com/49564849/86055679-d3bb8800-ba64-11ea-9bf8-3bc1a8c69f22.gif)
 
-![[Watch the video](https://user-images.githubusercontent.com/49564849/86060517-842d8a00-ba6d-11ea-93c5-9b29a4045a31.png)](https://drive.google.com/file/d/1otgdgVskQF4uQHWCK579x3CKw8Erln4b/view?usp=sharing)
+[![Watch the video](https://user-images.githubusercontent.com/49564849/86060517-842d8a00-ba6d-11ea-93c5-9b29a4045a31.png)](https://drive.google.com/file/d/1otgdgVskQF4uQHWCK579x3CKw8Erln4b/view?usp=sharing)
  
 ![download (1)](https://user-images.githubusercontent.com/49564849/86055684-d61de200-ba64-11ea-9b5c-3522d1350b28.gif)
 
