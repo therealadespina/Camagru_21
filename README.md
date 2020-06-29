@@ -72,7 +72,7 @@ function readURL(input) {
 
 An example is shown above, but it works.
 
-## (Desktop)
+## Desktop
 
 ![2020-06-29 22 43 24](https://user-images.githubusercontent.com/49564849/86052348-84268d80-ba5f-11ea-8de3-ab0972567d0d.jpg)
 
