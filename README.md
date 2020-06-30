@@ -79,7 +79,7 @@ An example is shown above, but it works.
 
 ![image](https://user-images.githubusercontent.com/49564849/86052836-470ecb00-ba60-11ea-8853-2f786d8caf7a.png)
 
-![1](https://user-images.githubusercontent.com/49564849/86113052-6a259300-bad1-11ea-9a44-8f94c5f1a13c.gif)
+![Camagru_L](https://user-images.githubusercontent.com/49564849/86114137-d0f77c00-bad2-11ea-8b47-1505a2664b1d.png)
 
 ![download (4)](https://user-images.githubusercontent.com/49564849/86055692-db7b2c80-ba64-11ea-9f86-d186279795e4.gif)
 
