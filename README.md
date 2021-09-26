@@ -75,12 +75,6 @@ An example is shown above, but it works.
 
 ![2020-06-29 22 43 24](https://user-images.githubusercontent.com/49564849/86052348-84268d80-ba5f-11ea-8de3-ab0972567d0d.jpg)
 
-![download (3)](https://user-images.githubusercontent.com/49564849/86055689-d9b16900-ba64-11ea-85e3-ab79b1afed0d.gif)
-
-![blade_runner (1)](https://user-images.githubusercontent.com/49564849/86115129-2c763980-bad4-11ea-8857-0ee902352703.gif)
-
-![Camagru_L](https://user-images.githubusercontent.com/49564849/86114137-d0f77c00-bad2-11ea-8b47-1505a2664b1d.png)
-
 ![download (4)](https://user-images.githubusercontent.com/49564849/86055692-db7b2c80-ba64-11ea-9f86-d186279795e4.gif)
 
 * [PHP]()
